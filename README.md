@@ -1,4 +1,4 @@
-## **HOW TO USE**
+## **Quick Start**
 
 - Run the file as Administrator.  
 - Set the time using the slider or by typing.  
@@ -18,7 +18,9 @@ DXCache Cleaner is a lightweight, open‑source utility that automatically remov
 - **Logging:** Temporary log file (`dxcache_log.txt`) stored in `%TEMP%`, auto‑deleted after 100 seconds.  
 - **Silent Execution:** Tasks run completely hidden, without CMD/PowerShell windows popping up.  
 
-# **Workflow**
+---
+
+## **Workflow (Detailed)**
 
 - User selects a schedule in the GUI.  
 - App checks for admin rights.  
