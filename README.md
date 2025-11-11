@@ -1,3 +1,11 @@
+#HOW TO USE
+- Run the file as Administrator.  
+- Set the time using the slider or by typing.  
+- Click **"Tạo Task"** to run the task.  
+- Click **"Xem log"** to view the log.  
+- To delete or stop the task, click **"Xóa Task"**.
+
+
 #DXCache Cleaner
 
 DXCache Cleaner is a lightweight, open‑source utility that automatically removes NVIDIA DXCache (shader cache) on a custom schedule. Shader cache can accumulate over time and cause conflicts, leading to sudden FPS drops in games. This app runs silently in the background — no command windows, no interruptions.
