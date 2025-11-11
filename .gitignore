@@ -1,3 +1,9 @@
+# DXCache Cleaner temp files
+dxcache_cleaner.vbs
+dxcache_cleaner.ps1
+dxcache_log.txt
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
